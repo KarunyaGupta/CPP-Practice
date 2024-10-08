@@ -1,0 +1,7 @@
+objects are variable of type class 
+class student{
+    name 
+    rollno 
+    get marks()
+}
+

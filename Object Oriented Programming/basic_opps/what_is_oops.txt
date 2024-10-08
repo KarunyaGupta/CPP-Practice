@@ -1,0 +1,4 @@
+--> main focus on data
+->binded the data to the function using it using objects
+->each objects have data and some fuctions 
+--> benifit is it protect data from accidental changes

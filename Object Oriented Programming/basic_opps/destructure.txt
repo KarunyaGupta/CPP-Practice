@@ -1,0 +1,3 @@
+function is called when object is deleted 
+cannot pass any parameter 
+name --> ~(class name)

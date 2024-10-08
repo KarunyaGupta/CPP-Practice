@@ -1,0 +1,4 @@
+why multidementional array 
+    representing grids 
+    faster nd simpler access 
+     predefined size

@@ -1,0 +1,3 @@
+binding of methods and variable together into a single unit--> class 
+data is only accessable from class methods
+also leeds to data abstraction or hiding thats why class classed abstract data type

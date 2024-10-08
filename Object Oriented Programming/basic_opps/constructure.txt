@@ -1,0 +1,9 @@
+use to initialize an object 
+this is a function which is called when an object is created;
+
+same name as class name
+
+types---->
+1> default 
+2> parameterized
+3> copy

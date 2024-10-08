@@ -1,0 +1,11 @@
+why oops --> 
+before that we have procedure oriented programming 
+use high level programming 
+program was divided into task and be grouped into functions
+
+
+
+globle data --> which is accessable from enitre program;
+local data --> which is accessable from only one function;
+demarits--> if there is change in a globle data than it is difficult to track which function change data
+if datastructure is change 
